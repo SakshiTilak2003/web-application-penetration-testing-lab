@@ -76,3 +76,9 @@ This project helped strengthen practical understanding of **web application secu
 - Offensive Security Fundamentals
 
 # 📂 Repository Contents
+- – Full penetration testing report  
+- Nmap_Scan.png – Network reconnaissance results  
+- SQL_Injection_Command.png – SQLMap command used for SQL injection testing  
+- Extracted_Columns.png – Extracted database columns (email, password)  
+- Reflected_XSS.png – Successful reflected XSS payload execution  
+- README.md – Project overview and documentation
