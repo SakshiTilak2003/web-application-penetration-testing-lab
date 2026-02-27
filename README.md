@@ -4,6 +4,8 @@ This project demonstrates a **hands-on Web Application Penetration Testing asses
 
 The goal of this project was to simulate a **real-world security assessment**, identify vulnerabilities, and document findings in a professional penetration testing report.
 
+----
+
 # 🧪 Lab Environment
 
 **Attacker Machine**
@@ -21,6 +23,8 @@ The goal of this project was to simulate a **real-world security assessment**, i
 
 This setup ensured safe and controlled security testing.
 
+----
+
 # 🔎 Security Testing Methodology
 
 The penetration testing process followed a structured workflow:
@@ -30,14 +34,18 @@ The penetration testing process followed a structured workflow:
 3. Vulnerability Scanning  
 4. Exploitation  
 5. Risk Classification  
-6. Remediation Recommendations  
+6. Remediation Recommendations
+
+----
 
 # 🛠 Tools Used
 
 - Nmap – Network reconnaissance and service detection  
 - Burp Suite – Web traffic interception and request analysis  
 - Nikto – Web server vulnerability scanning  
-- sqlmap – SQL Injection exploitation and database enumeration  
+- sqlmap – SQL Injection exploitation and database enumeration
+
+----
 
 # ⚠️ Vulnerabilities Identified
 
@@ -55,6 +63,8 @@ The following vulnerabilities were discovered during the assessment:
 ### Broken Access Control
 - Unauthorized access to restricted administrative functionality.
 
+----
+
 # 📊 Project Outcome
 
 The project resulted in a **professional penetration testing report** containing:
@@ -67,6 +77,8 @@ The project resulted in a **professional penetration testing report** containing
 
 This project helped strengthen practical understanding of **web application security testing and vulnerability assessment methodologies**.
 
+----
+
 # 💡 Skills Demonstrated
 
 - Web Application Penetration Testing
@@ -75,10 +87,26 @@ This project helped strengthen practical understanding of **web application secu
 - Security Reporting
 - Offensive Security Fundamentals
 
+----
+
 # 📂 Repository Contents
-- – Full penetration testing report  
+- Web Application Penetration Testing Assessment.pdf – Full penetration testing report  
 - Nmap_Scan.png – Network reconnaissance results  
-- SQL_Injection_Command.png – SQLMap command used for SQL injection testing  
+- SQL_Injection.png – SQLMap command used for SQL injection testing  
 - Extracted_Columns.png – Extracted database columns (email, password)  
-- Reflected_XSS.png – Successful reflected XSS payload execution  
+- Reflected_XSS_1.png – Successful reflected XSS payload execution  
 - README.md – Project overview and documentation
+
+----
+
+# 👩‍💻 Author
+
+**Sakshi Tilak**  
+Computer Engineering Student | Cybersecurity Enthusiast
+
+----
+
+# ⚠️ Disclaimer
+
+This project was conducted in a **controlled lab environment for educational purposes only**.  
+The techniques demonstrated should only be used on systems with **proper authorization**.
